@@ -1,0 +1,17 @@
+C:\Users\abdullah\Desktop\EtkinlikApp\OnionApp\OnionApp.Infrastructure\bin\Debug\net7.0\OnionApp.Infrastructure.deps.json
+C:\Users\abdullah\Desktop\EtkinlikApp\OnionApp\OnionApp.Infrastructure\bin\Debug\net7.0\OnionApp.Infrastructure.dll
+C:\Users\abdullah\Desktop\EtkinlikApp\OnionApp\OnionApp.Infrastructure\bin\Debug\net7.0\OnionApp.Infrastructure.pdb
+C:\Users\abdullah\Desktop\EtkinlikApp\OnionApp\OnionApp.Infrastructure\bin\Debug\net7.0\OnionApp.Application.dll
+C:\Users\abdullah\Desktop\EtkinlikApp\OnionApp\OnionApp.Infrastructure\bin\Debug\net7.0\OnionApp.Domain.dll
+C:\Users\abdullah\Desktop\EtkinlikApp\OnionApp\OnionApp.Infrastructure\bin\Debug\net7.0\OnionApp.Application.pdb
+C:\Users\abdullah\Desktop\EtkinlikApp\OnionApp\OnionApp.Infrastructure\bin\Debug\net7.0\OnionApp.Domain.pdb
+C:\Users\abdullah\Desktop\EtkinlikApp\OnionApp\OnionApp.Infrastructure\obj\Debug\net7.0\OnionApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\abdullah\Desktop\EtkinlikApp\OnionApp\OnionApp.Infrastructure\obj\Debug\net7.0\OnionApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdullah\Desktop\EtkinlikApp\OnionApp\OnionApp.Infrastructure\obj\Debug\net7.0\OnionApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\abdullah\Desktop\EtkinlikApp\OnionApp\OnionApp.Infrastructure\obj\Debug\net7.0\OnionApp.Infrastructure.AssemblyInfo.cs
+C:\Users\abdullah\Desktop\EtkinlikApp\OnionApp\OnionApp.Infrastructure\obj\Debug\net7.0\OnionApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\abdullah\Desktop\EtkinlikApp\OnionApp\OnionApp.Infrastructure\obj\Debug\net7.0\OnionApp.Infrastructure.csproj.CopyComplete
+C:\Users\abdullah\Desktop\EtkinlikApp\OnionApp\OnionApp.Infrastructure\obj\Debug\net7.0\OnionApp.Infrastructure.dll
+C:\Users\abdullah\Desktop\EtkinlikApp\OnionApp\OnionApp.Infrastructure\obj\Debug\net7.0\refint\OnionApp.Infrastructure.dll
+C:\Users\abdullah\Desktop\EtkinlikApp\OnionApp\OnionApp.Infrastructure\obj\Debug\net7.0\OnionApp.Infrastructure.pdb
+C:\Users\abdullah\Desktop\EtkinlikApp\OnionApp\OnionApp.Infrastructure\obj\Debug\net7.0\ref\OnionApp.Infrastructure.dll

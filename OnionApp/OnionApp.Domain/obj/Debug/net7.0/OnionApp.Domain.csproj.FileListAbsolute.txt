@@ -1,0 +1,12 @@
+C:\Users\abdullah\Desktop\EtkinlikApp\OnionApp\OnionApp.Domain\bin\Debug\net7.0\OnionApp.Domain.deps.json
+C:\Users\abdullah\Desktop\EtkinlikApp\OnionApp\OnionApp.Domain\bin\Debug\net7.0\OnionApp.Domain.dll
+C:\Users\abdullah\Desktop\EtkinlikApp\OnionApp\OnionApp.Domain\bin\Debug\net7.0\OnionApp.Domain.pdb
+C:\Users\abdullah\Desktop\EtkinlikApp\OnionApp\OnionApp.Domain\obj\Debug\net7.0\OnionApp.Domain.csproj.AssemblyReference.cache
+C:\Users\abdullah\Desktop\EtkinlikApp\OnionApp\OnionApp.Domain\obj\Debug\net7.0\OnionApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdullah\Desktop\EtkinlikApp\OnionApp\OnionApp.Domain\obj\Debug\net7.0\OnionApp.Domain.AssemblyInfoInputs.cache
+C:\Users\abdullah\Desktop\EtkinlikApp\OnionApp\OnionApp.Domain\obj\Debug\net7.0\OnionApp.Domain.AssemblyInfo.cs
+C:\Users\abdullah\Desktop\EtkinlikApp\OnionApp\OnionApp.Domain\obj\Debug\net7.0\OnionApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\abdullah\Desktop\EtkinlikApp\OnionApp\OnionApp.Domain\obj\Debug\net7.0\OnionApp.Domain.dll
+C:\Users\abdullah\Desktop\EtkinlikApp\OnionApp\OnionApp.Domain\obj\Debug\net7.0\refint\OnionApp.Domain.dll
+C:\Users\abdullah\Desktop\EtkinlikApp\OnionApp\OnionApp.Domain\obj\Debug\net7.0\OnionApp.Domain.pdb
+C:\Users\abdullah\Desktop\EtkinlikApp\OnionApp\OnionApp.Domain\obj\Debug\net7.0\ref\OnionApp.Domain.dll

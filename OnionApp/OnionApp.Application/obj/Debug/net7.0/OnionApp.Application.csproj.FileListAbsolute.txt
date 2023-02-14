@@ -1,0 +1,15 @@
+C:\Users\abdullah\Desktop\EtkinlikApp\OnionApp\OnionApp.Application\bin\Debug\net7.0\OnionApp.Application.deps.json
+C:\Users\abdullah\Desktop\EtkinlikApp\OnionApp\OnionApp.Application\bin\Debug\net7.0\OnionApp.Application.dll
+C:\Users\abdullah\Desktop\EtkinlikApp\OnionApp\OnionApp.Application\bin\Debug\net7.0\OnionApp.Application.pdb
+C:\Users\abdullah\Desktop\EtkinlikApp\OnionApp\OnionApp.Application\bin\Debug\net7.0\OnionApp.Domain.dll
+C:\Users\abdullah\Desktop\EtkinlikApp\OnionApp\OnionApp.Application\bin\Debug\net7.0\OnionApp.Domain.pdb
+C:\Users\abdullah\Desktop\EtkinlikApp\OnionApp\OnionApp.Application\obj\Debug\net7.0\OnionApp.Application.csproj.AssemblyReference.cache
+C:\Users\abdullah\Desktop\EtkinlikApp\OnionApp\OnionApp.Application\obj\Debug\net7.0\OnionApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdullah\Desktop\EtkinlikApp\OnionApp\OnionApp.Application\obj\Debug\net7.0\OnionApp.Application.AssemblyInfoInputs.cache
+C:\Users\abdullah\Desktop\EtkinlikApp\OnionApp\OnionApp.Application\obj\Debug\net7.0\OnionApp.Application.AssemblyInfo.cs
+C:\Users\abdullah\Desktop\EtkinlikApp\OnionApp\OnionApp.Application\obj\Debug\net7.0\OnionApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\abdullah\Desktop\EtkinlikApp\OnionApp\OnionApp.Application\obj\Debug\net7.0\OnionApp.Application.csproj.CopyComplete
+C:\Users\abdullah\Desktop\EtkinlikApp\OnionApp\OnionApp.Application\obj\Debug\net7.0\OnionApp.Application.dll
+C:\Users\abdullah\Desktop\EtkinlikApp\OnionApp\OnionApp.Application\obj\Debug\net7.0\refint\OnionApp.Application.dll
+C:\Users\abdullah\Desktop\EtkinlikApp\OnionApp\OnionApp.Application\obj\Debug\net7.0\OnionApp.Application.pdb
+C:\Users\abdullah\Desktop\EtkinlikApp\OnionApp\OnionApp.Application\obj\Debug\net7.0\ref\OnionApp.Application.dll

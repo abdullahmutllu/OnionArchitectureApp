@@ -1,0 +1,17 @@
+C:\Users\abdullah\Desktop\EtkinlikApp\OnionApp\OnionApp.Presentation\bin\Debug\net7.0\OnionApp.Presentation.deps.json
+C:\Users\abdullah\Desktop\EtkinlikApp\OnionApp\OnionApp.Presentation\bin\Debug\net7.0\OnionApp.Presentation.dll
+C:\Users\abdullah\Desktop\EtkinlikApp\OnionApp\OnionApp.Presentation\bin\Debug\net7.0\OnionApp.Presentation.pdb
+C:\Users\abdullah\Desktop\EtkinlikApp\OnionApp\OnionApp.Presentation\obj\Debug\net7.0\OnionApp.Presentation.csproj.AssemblyReference.cache
+C:\Users\abdullah\Desktop\EtkinlikApp\OnionApp\OnionApp.Presentation\obj\Debug\net7.0\OnionApp.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdullah\Desktop\EtkinlikApp\OnionApp\OnionApp.Presentation\obj\Debug\net7.0\OnionApp.Presentation.AssemblyInfoInputs.cache
+C:\Users\abdullah\Desktop\EtkinlikApp\OnionApp\OnionApp.Presentation\obj\Debug\net7.0\OnionApp.Presentation.AssemblyInfo.cs
+C:\Users\abdullah\Desktop\EtkinlikApp\OnionApp\OnionApp.Presentation\obj\Debug\net7.0\OnionApp.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\abdullah\Desktop\EtkinlikApp\OnionApp\OnionApp.Presentation\obj\Debug\net7.0\OnionApp.Presentation.dll
+C:\Users\abdullah\Desktop\EtkinlikApp\OnionApp\OnionApp.Presentation\obj\Debug\net7.0\refint\OnionApp.Presentation.dll
+C:\Users\abdullah\Desktop\EtkinlikApp\OnionApp\OnionApp.Presentation\obj\Debug\net7.0\OnionApp.Presentation.pdb
+C:\Users\abdullah\Desktop\EtkinlikApp\OnionApp\OnionApp.Presentation\obj\Debug\net7.0\ref\OnionApp.Presentation.dll
+C:\Users\abdullah\Desktop\EtkinlikApp\OnionApp\OnionApp.Presentation\bin\Debug\net7.0\OnionApp.Application.dll
+C:\Users\abdullah\Desktop\EtkinlikApp\OnionApp\OnionApp.Presentation\bin\Debug\net7.0\OnionApp.Domain.dll
+C:\Users\abdullah\Desktop\EtkinlikApp\OnionApp\OnionApp.Presentation\bin\Debug\net7.0\OnionApp.Application.pdb
+C:\Users\abdullah\Desktop\EtkinlikApp\OnionApp\OnionApp.Presentation\bin\Debug\net7.0\OnionApp.Domain.pdb
+C:\Users\abdullah\Desktop\EtkinlikApp\OnionApp\OnionApp.Presentation\obj\Debug\net7.0\OnionApp.Presentation.csproj.CopyComplete
